@@ -4,6 +4,7 @@ For Euclid Coursera Courses
 Setup:
 
 Create a python3 virtualenv:
+
 `cd ~`
 
 `virtualenv coursera`
