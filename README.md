@@ -13,5 +13,6 @@ virtualenv -p python3 coursera
 
 Install requirements:
 ```
+source ~/coursera/bin/activate
 pip3 -r requirements.txt
 ```
