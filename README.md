@@ -18,3 +18,5 @@ pip -r requirements.txt
 
 Install GraphLab Create (for clustering course):
 https://dato.com/learn/coursera/
+
+Create a personal folder and copy the starter exercises to it. See e.g. /clustering_course/satvik/
