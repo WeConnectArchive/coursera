@@ -15,3 +15,6 @@ Install requirements:
 source ~/coursera/bin/activate
 pip -r requirements.txt
 ```
+
+Install GraphLab Create (for clustering course):
+https://dato.com/learn/coursera/
