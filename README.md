@@ -13,7 +13,7 @@ virtualenv coursera
 Install requirements:
 ```
 source ~/coursera/bin/activate
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Install GraphLab Create (for clustering course):
